@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
+[Ll]ibrary/
 /[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -70,3 +70,74 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+A Missing Tale Game/Temp/UnityTempFile-fb153941fe223764f80593ce0cdabb98
+A Missing Tale Game/Temp/UnityTempFile-f4f2efb7c8ae45c48b2f3e6c068866a4
+A Missing Tale Game/Temp/UnityTempFile-f49ba53445b14f345b4ccd7db70beeda
+A Missing Tale Game/Temp/UnityTempFile-f0fbf181df28e0746a7e0219c76d4ed2
+A Missing Tale Game/Temp/UnityTempFile-ed90bb9777d462f43b3996f6811b25e6
+A Missing Tale Game/Temp/UnityTempFile-e6b6c3a3b6ff91344b89331fc30b2427
+A Missing Tale Game/Temp/UnityTempFile-e694a342212e1424daea5e8429ab7d61
+A Missing Tale Game/Temp/UnityTempFile-d3bb1b92809113743b5c165d71cc9996
+A Missing Tale Game/Temp/UnityTempFile-cad09b003146c29449e04e1c9c67d271
+A Missing Tale Game/Temp/UnityTempFile-b82313db7dac0d64f89fc09c910341de
+A Missing Tale Game/Temp/UnityTempFile-ab5f7f70667f17847ac87128edaba55c
+A Missing Tale Game/Temp/UnityTempFile-a16d79074dbf2c34491f513491601e3b
+A Missing Tale Game/Temp/UnityTempFile-8a1d9033d4a5dc343ba010513d4496d7
+A Missing Tale Game/Temp/UnityTempFile-7f25d52f3f34c5746b2145c867685b59
+A Missing Tale Game/Temp/UnityTempFile-7d9db172e0f5e6847ab3af1a28ca513f
+A Missing Tale Game/Temp/UnityTempFile-79ef4e9d83b27174fa11f0396a6b631e
+A Missing Tale Game/Temp/UnityTempFile-7729ce27132a7ba41958036da48a8231
+A Missing Tale Game/Temp/UnityTempFile-70d79ae20ab9d5947961ead5711f4038
+A Missing Tale Game/Temp/UnityTempFile-6d4bfcdaa1087f3468f208abdb4fbd5b
+A Missing Tale Game/Temp/UnityTempFile-6bf79728fcd2f474faea87ab87c478b9
+A Missing Tale Game/Temp/UnityTempFile-65cf93813a3be5d47bde8cae4fe80656
+A Missing Tale Game/Temp/UnityTempFile-5890da0b2b828dd469d7406d3c70e2dc
+A Missing Tale Game/Temp/UnityTempFile-3b2e0fda2d7481e4183056f988ef8e50
+A Missing Tale Game/Temp/UnityTempFile-3241952ff81bc83498f38bf74fd05e24
+A Missing Tale Game/Temp/UnityTempFile-318241eb6d959ec469dae13f644e3dac
+A Missing Tale Game/Temp/UnityTempFile-2c5d5d32d048eb24cb55ca33d5ec4e6e
+A Missing Tale Game/Temp/UnityTempFile-27de7e6936ddc4948a4aa7fc28ded35c
+A Missing Tale Game/Temp/UnityTempFile-246da76f25f1c194bb35afd2fc65d953
+A Missing Tale Game/Temp/UnityTempFile-21a8637bada0f82438e28728feac7f8c
+A Missing Tale Game/Temp/UnityTempFile-21514734abe0f804dae49a5ca588761a
+A Missing Tale Game/Temp/UnityTempFile-1f3f8f7cdbd02064483a9856d40f10a7
+A Missing Tale Game/Temp/UnityTempFile-15f68e0d900db3342bf54c28cff01c48
+A Missing Tale Game/Temp/UnityTempFile-0f8439c281d1f1f46a1671d3100ec7df
+A Missing Tale Game/Temp/UnityTempFile-06a965c3b6607424cbd15f713ebfc1ea
+A Missing Tale Game/Temp/UnityLockfile
+A Missing Tale Game/Temp/UnityEngine.UI.dll.hash
+A Missing Tale Game/Temp/UnityEngine.TestRunner.dll.hash
+A Missing Tale Game/Temp/UnityEditor.UI.dll.hash
+A Missing Tale Game/Temp/UnityEditor.TestRunner.dll.hash
+A Missing Tale Game/Temp/Unity.VSCode.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.VisualStudio.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.Timeline.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.Timeline.dll.hash
+A Missing Tale Game/Temp/Unity.TextMeshPro.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.TextMeshPro.dll.hash
+A Missing Tale Game/Temp/Unity.Services.Core.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.Rider.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.PlasticSCM.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.Mathematics.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.Mathematics.dll.hash
+A Missing Tale Game/Temp/Unity.InternalAPIEngineBridge.001.dll.hash
+A Missing Tale Game/Temp/Unity.InternalAPIEditorBridge.001.dll.hash
+A Missing Tale Game/Temp/Unity.CollabProxy.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.2D.Tilemap.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.2D.SpriteShape.Runtime.dll.hash
+A Missing Tale Game/Temp/Unity.2D.SpriteShape.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.2D.Sprite.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.2D.Psdimporter.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.2D.PixelPerfect.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.2D.PixelPerfect.dll.hash
+A Missing Tale Game/Temp/Unity.2D.Path.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.2D.IK.Runtime.dll.hash
+A Missing Tale Game/Temp/Unity.2D.IK.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.2D.Common.Runtime.dll.hash
+A Missing Tale Game/Temp/Unity.2D.Common.Editor.dll.hash
+A Missing Tale Game/Temp/Unity.2D.Animation.Triangle.Runtime.dll.hash
+A Missing Tale Game/Temp/Unity.2D.Animation.Runtime.dll.hash
+A Missing Tale Game/Temp/Unity.2D.Animation.Editor.dll.hash
+A Missing Tale Game/Temp/PsdPlugin.dll.hash
+A Missing Tale Game/Temp/CompilationLog.txt
+A Missing Tale Game/Temp/workerlic
